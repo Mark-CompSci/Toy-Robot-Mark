@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * The main class to run the program from
- * @author MarkG
+ * @author Mark
  *
  */
 public class Main {
