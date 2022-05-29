@@ -18,3 +18,5 @@ Run program:
   - complie Main.java
   - Run program by running Main
   - outputs into console after a report command has been executed
+
+Recommended to be complied and run in eclise, but if being complied and run directely then move robotCommand.txt into same location as Main complied file.
